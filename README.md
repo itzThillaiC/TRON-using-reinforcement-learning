@@ -125,10 +125,3 @@ if historyStep +1 == len(game.history)-1:
 python ACKTR.py -m 2 -r 2 -p 1.2 -v 0.6
 ```
 
-## Bonus video
-
-For fun I made an humoristic video in french trying to simply explain the deep reinforcment Q-learning technique used here to train the AIs.
-
-*You can check this out with the image link below:*
-
-[![Q-learning Tron video](https://img.youtube.com/vi/tcAYv7L2W_Q/0.jpg)](https://www.youtube.com/watch?v=tcAYv7L2W_Q)
